@@ -8,3 +8,4 @@ Useful tools for working with protein structures.
 
 [Molecular graphics in Jupyter](https://colab.research.google.com/github/kluwik/structural-bioinformatics/blob/main/Molecular_graphics_in_Jupyter.ipynb)
 
+[DSSP in Biopython](https://colab.research.google.com/github/kluwik/structural-bioinformatics/blob/main/DSSP_Biopython.ipynb)
