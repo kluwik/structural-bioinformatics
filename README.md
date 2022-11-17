@@ -4,20 +4,22 @@ Useful tools for working with protein structures.
 
 ## 3D structure prediction
 
-- AlphaFold
-  - [github](https://github.com/deepmind/alphafold) | [colab (oficial)](https://colab.research.google.com/github/deepmind/alphafold/blob/main/notebooks/AlphaFold.ipynb) | [ColabFold](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb)
+- AlphaFold - [github](https://github.com/deepmind/alphafold) | [colab (oficial)](https://colab.research.google.com/github/deepmind/alphafold/blob/main/notebooks/AlphaFold.ipynb) | [ColabFold](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb)
 - [Robetta-server](http://robetta.bakerlab.org/) - Roseta ab initio, comparative modeling, RoseTTAFold)
 - [I-TASSER](https://seq2fun.dcmb.med.umich.edu//I-TASSER/)
 - [SWISS-MODEL](https://swissmodel.expasy.org/)
 
-
 ## Structural alignment
 
-Lists: 
+Lists:
+
 - [Protopedia](https://proteopedia.org/wiki/index.php/Structure_superposition_tools)
 
 Aggregators:
+
 - [PDB alignment tools](https://www.rcsb.org/alignment)
+
+Tools:
 
 - [TM-align](https://zhanggroup.org/TM-align/) 
 - [FATCAT](http://fatcat.godziklab.org/)
@@ -25,6 +27,7 @@ Aggregators:
 ## Seconadary structure prediction
 
 Aggregators:
+
 - [Quick2D](https://toolkit.tuebingen.mpg.de/tools/quick2d)
 
 - [PSIPRED](http://bioinf.cs.ucl.ac.uk/psipred)
@@ -32,6 +35,7 @@ Aggregators:
 - [Jpred](https://www.compbio.dundee.ac.uk/jpred4/index.html) 
 
 Visualizers:
+
 - [2dss](http://genome.lcqb.upmc.fr/2dss)
 
 ## Seconadary structure assignment
@@ -42,23 +46,29 @@ Visualizers:
 ## Prediction of functionally important protein regions
 
 Lists:
+
 - https://molbiol-tools.ca/Protein_secondary_structure.htm
 
 ### Transmembrane domains
+
 - [TMHMM](https://dtu.biolib.com/DeepTMHMM)
 - [Phobius](https://phobius.sbc.su.se/) 
 
 ### Disordered regions
+
 - [PONDR](http://www.pondr.com)
 - [DISOPRED3](http://bioinf.cs.ucl.ac.uk/psipred/) 
 
 ### Signal peptides, cleavage sites, and subcellular localization
+
 - [SignalP](https://services.healthtech.dtu.dk/service.php?SignalP) 
 
 ### Specificity-Determining Positions (SDPs)
+
 - [SDPpred](http://bioinf.fbb.msu.ru/SDPpred/) 
 
 ## Molecular visualization
+
 - [Jmol](https://jmol.sourceforge.net/)
 - [Protein Imager](https://3dproteinimaging.com/protein-imager/)
 - [VRMol](https://vrmol.net/)
