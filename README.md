@@ -2,52 +2,54 @@
 
 Useful tools for working with protein structures.
 
-## 3D structure prediction
+## 1. 3D structure prediction
 
 - AlphaFold - [github](https://github.com/deepmind/alphafold) | [colab (official)](https://colab.research.google.com/github/deepmind/alphafold/blob/main/notebooks/AlphaFold.ipynb) | [ColabFold](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb)
 - [Robetta-server](http://robetta.bakerlab.org/) - Roseta ab initio, comparative modeling, RoseTTAFold)
 - [I-TASSER](https://seq2fun.dcmb.med.umich.edu//I-TASSER/)
 - [SWISS-MODEL](https://swissmodel.expasy.org/)
 
-## Structural alignment
+## 2. Structural alignment
 
-Lists:
+**Lists:**
 
 - [Protopedia](https://proteopedia.org/wiki/index.php/Structure_superposition_tools)
 
-Aggregators:
+**Aggregators:**
 
 - [PDB alignment tools](https://www.rcsb.org/alignment)
 
-Tools:
+**Tools:**
 
 - [TM-align](https://zhanggroup.org/TM-align/) 
 - [FATCAT](http://fatcat.godziklab.org/)
 
-## Seconadary structure prediction
+## 3. Seconadary structure prediction
 
-Aggregators:
+**Aggregators:**
 
 - [Quick2D](https://toolkit.tuebingen.mpg.de/tools/quick2d)
+
+**Tools:**
 
 - [PSIPRED](http://bioinf.cs.ucl.ac.uk/psipred)
 - [PSSpred](https://zhanggroup.org/PSSpred/)
 - [Jpred](https://www.compbio.dundee.ac.uk/jpred4/index.html) 
 
-Visualizers:
+**Visualizers:**
 
 - [2dss](http://genome.lcqb.upmc.fr/2dss)
 
-## Seconadary structure assignment
+## 4. Seconadary structure assignment
 
 - [DSSP](https://swift.cmbi.umcn.nl/gv/dssp)
 - [Stride](https://webclu.bio.wzw.tum.de/stride/)
 
-## Prediction of functionally important protein regions
+## 5. Prediction of functionally important protein regions
 
-Lists:
+**Lists:**
 
-- https://molbiol-tools.ca/Protein_secondary_structure.htm
+- [molbiol-tools.ca](https://molbiol-tools.ca/Protein_secondary_structure.htm)
 
 ### Transmembrane domains
 
@@ -67,7 +69,7 @@ Lists:
 
 - [SDPpred](http://bioinf.fbb.msu.ru/SDPpred/) 
 
-## Molecular visualization
+## 6. Molecular visualization
 
 - [Jmol](https://jmol.sourceforge.net/)
 - [Protein Imager](https://3dproteinimaging.com/protein-imager/)
@@ -75,7 +77,7 @@ Lists:
 - [LiteMol](https://www.litemol.org/)
 - [Mol*](https://molstar.org/)
 
-## Jupyter Notebooks
+## 7. Jupyter Notebooks
 
 [Biopython for working with PDB files](https://colab.research.google.com/github/kluwik/structural-bioinformatics/blob/main/Biopython_for_working_with_PDB_files.ipynb) - standard routine with PDB structures (download from PDB, open/save structures, parse sections, retrieve sequence).
 
