@@ -4,7 +4,7 @@ Useful tools for working with protein structures.
 
 ## 3D structure prediction
 
-- AlphaFold - [github](https://github.com/deepmind/alphafold) | [colab (oficial)](https://colab.research.google.com/github/deepmind/alphafold/blob/main/notebooks/AlphaFold.ipynb) | [ColabFold](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb)
+- AlphaFold - [github](https://github.com/deepmind/alphafold) | [colab (official)](https://colab.research.google.com/github/deepmind/alphafold/blob/main/notebooks/AlphaFold.ipynb) | [ColabFold](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb)
 - [Robetta-server](http://robetta.bakerlab.org/) - Roseta ab initio, comparative modeling, RoseTTAFold)
 - [I-TASSER](https://seq2fun.dcmb.med.umich.edu//I-TASSER/)
 - [SWISS-MODEL](https://swissmodel.expasy.org/)
