@@ -4,7 +4,7 @@
 
 1. Download PDB ID *1FZY* form Protein Data Bank.
 2. Open PyMol and load the downloaded structure: *File* → *Open*.
-3. Remove water molecules and chain A by entering the following command to the PyMol command line (under the log and above the main scene): `remove chain A resn hoh`.
+3. Remove water molecules and chain A by entering the following command in the PyMol command line (under the log and above the main scene): `remove chain A resn hoh`.
     
     P.S. This is an example when the structure contains two copies of the protein (in asymmetric unit), while the functional entity is a single protein. So we need to leave either of the two protein molecules. You may take a look at the section about unresolved entities in the PDB structure file to understand, why we removed chain A, but not B.
     
