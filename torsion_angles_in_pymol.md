@@ -16,7 +16,7 @@ Couple of adjustments to display balls:
 *Settings* → checkmark on *Ball and sticks* 
 6. Hide the protein ribbons: in the right sidebar click on H button of *1fzy* and choose *cartoon*.
 7. Now we are ready to pick atoms for measuring torsion angles! Adjust the view to make atom picking comfortable. If you get lost in the scene, center the view on the residues by typing the command: `center resi 12`
-8. Go to *Wizard → Measurement*. In the bottom of the right sidebar click on *Distances* and select *Dihedrals*. PyMol will suggest you (a message will appear under the command line) to pick four atoms to measure a torsion angle. Choose wisely! Remember what atoms form Phi and Psi angles (consult the slides). Pick atoms sequentially by clicking on them with the left mouse button (every time you pick an atom, a pink square dot appears on it). 
+8. Go to *Wizard → Measurement*. In the bottom of the right sidebar click on *Distances* and select *Dihedrals*. PyMol will suggest you (a message will appear under the command line) to pick four atoms to measure a torsion angle. Choose wisely! Remember what atoms form Phi and Psi angles (consult the slides). To understand which atom belongs to which residue, look at the side chains of the residues. Pick atoms sequentially by clicking on them with the left mouse button (every time you pick an atom, a pink square dot appears on it). 
 After you pick four atoms, a dihedral angle will be visualized. After that you can pick another four atoms to visualize another dihedral angle.
 When you finish with measuring torsion angles, click *Done* in the right sidebar.
 Profit!
