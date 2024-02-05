@@ -1,4 +1,4 @@
-# Class 05. Torsion angles in PyMol
+# Class 04. Torsion angles in PyMol
 
 ## Measure torsion angles
 
