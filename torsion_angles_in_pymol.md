@@ -28,3 +28,5 @@ To get a feeling of torsion angles, let’s disrupt them!
 Display the protein ribbons and make them transparent: click *S* button of *1fzy* and choose cartoon, then type `set cartoon_transparency, 0.7`
 
 Go to *Mouse* → *2 Button editing*. Pick an alpha-carbon atom of Q12 - a white cage will appear. Hold *Ctrl* and rotate with the left mouse button the part of a protein to the left/right of the alpha-carbon. Zoom out the scene and check how the structure is altered with different torsion angles.
+
+P.S. this exercise might be tricky to do with a touchpad only without a mouse. If it is the case, repeat it at home with a mouse.
